@@ -59,4 +59,4 @@ jobs:
         uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/')
         with:
-          files: ClaimDecay-${{env.TAG_NAME}}.jar
+          files: ComputerizedStorage-${{env.TAG_NAME}}.jar
