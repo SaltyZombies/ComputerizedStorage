@@ -1,0 +1,7 @@
+name: ComputerizedStorage
+main: com.solao.computerizedstorage.ComputerizedStorage
+version: 1.0
+api-version: 1.21
+commands:
+  openstorage:
+    description: Opens the storage interface
